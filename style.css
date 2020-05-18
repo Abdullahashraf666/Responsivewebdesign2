@@ -1,0 +1,73 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    
+}
+header {
+    background-color: #114B5F;
+}
+a {
+    color: #0a0201;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+body  {
+    background-image: url("5.jpg") !important;
+    background-attachment: fixed;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.home h2 {
+    font-size: 80px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: #0a0201;
+}
+
+
+.intro {
+    margin: 100px;
+}
+.intro h2 {
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: #0a0201;
+}
+.intro p {
+    color: #0a0201;
+    text-align: justify;
+}
+.about {   
+    margin: 100px;
+}
+.about h2 {
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: #0a0201;    
+}
+.about p {
+    color: #0a0201;
+    text-align: justify;
+}
+.contact {
+    text-align: center;
+    color: #0a0201;
+}
+ footer {
+     background-color: #114B5F;
+ }
+ .bottom {
+     margin-top:10px;
+     margin-bottom: 10px;
+ }
+
+
